@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="Abstract Class/Abstract Class.csproj" />
+  <Project Path="Constructore/Constructor.csproj" />
+  <Project Path="Encapsulation/Encapsulation.csproj" />
+  <Project Path="Hierarchical Inheritence/Hierarchical Inheritence.csproj" />
+  <Project Path="Method Overloading/Method Overloading.csproj" />
+  <Project Path="Method Overriding/Method Overriding.csproj" />
+  <Project Path="MultiLevel Inheritance/MultiLevel Inheritance.csproj" />
+  <Project Path="Multiple(Interface)/Multiple(Interface).csproj" />
+  <Project Path="OOPS Practice/Class.csproj" />
+  <Project Path="Runtime Polymorphism/Runtime Polymorphism.csproj" />
+  <Project Path="Single Inheritance/Single Inheritance.csproj" />
+</Solution>
