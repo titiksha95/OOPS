@@ -62,7 +62,3 @@ After completing these examples, you should be able to:
 - Model relationships between objects.
 - Write loosely coupled code using dependency injection.
 
-```
-
-## Author
-**Titiksha**
